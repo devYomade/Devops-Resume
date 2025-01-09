@@ -45,4 +45,3 @@ This application allows users to create a list of countries they'd like to visit
 - **Documentation**: The project is well-documented to facilitate onboarding and maintenance.
 =======
 # Devops-Resume
->>>>>>> 70b563dd0f33b0afa6a3ca0c2d31bbbc0bbef1f7
