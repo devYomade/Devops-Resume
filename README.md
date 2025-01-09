@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dream Vacation Destinations
 
 This application allows users to create a list of countries they'd like to visit, providing basic information about each country. The project is structured to mimic a real-life production environment, employing best practices in software development, deployment, and continuous integration/continuous delivery (CI/CD).
@@ -43,6 +42,9 @@ This application allows users to create a list of countries they'd like to visit
 - **Environment Management**: Separate configurations for different environments (development, staging, production) using environment variables.
 - **Security**: Sensitive information is managed using environment variables and Kubernetes Secrets.
 - **Documentation**: The project is well-documented to facilitate onboarding and maintenance.
-=======
-# Devops-Resume
 
+# Devops-Resume
+<<<<<<< HEAD
+
+=======
+>>>>>>> 791ca4a6199f4726d2ed983ad9923c4537c00ae2
